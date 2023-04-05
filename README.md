@@ -44,6 +44,7 @@ flowchart LR
 
 - ### **A**
 [Alvin Kigen](https://github.com/Nandi97)
+    
 [Auralia Malik](https://github.com/AURALIA-MALIK)
 - ### **B**
 [Brian Kepha](https://github.com/AngelofVerdant)
